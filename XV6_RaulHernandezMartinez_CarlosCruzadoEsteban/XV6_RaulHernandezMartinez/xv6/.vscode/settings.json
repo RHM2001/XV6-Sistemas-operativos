@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "utility": "c",
+        "atomic": "c"
+    },
+    "zenMode.fullScreen": true
+}
